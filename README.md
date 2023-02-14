@@ -37,6 +37,7 @@ public class PermutationInString {
         }
     }
     
+    
     private static Map<Character, Integer> getFrequencyMap(String str) {
         Map<Character, Integer> freq = new HashMap<>();
         for (char c : str.toCharArray()) {
@@ -45,3 +46,6 @@ public class PermutationInString {
         return freq;
     }
 }
+K CHARAN
+kasamsettycharan@gmail.com
+9398074963
